@@ -1,6 +1,5 @@
 /*
  * Main App file App.js
- * @author Asep Maulana Ismail
  */
 
 
