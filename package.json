@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-express",
+  "version": "0.0.1",
+  "author": "Asep Maulana Ismail",
+  "description": "Hello World program with node.js and express",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.1"
+  }
+}
